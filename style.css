@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    border: solid 5px black;
+    justify-items: center;
+}
+
+.div__container img {
+    width: 150px;
+    height: auto;
+}
