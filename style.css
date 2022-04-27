@@ -9,6 +9,7 @@
     grid-template-rows: 1fr;
     border: solid 5px black;
     justify-items: center;
+    background-color: brown;
 }
 
 .div__container img {
